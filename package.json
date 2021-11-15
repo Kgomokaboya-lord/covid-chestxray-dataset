@@ -1,0 +1,27 @@
+{
+  "name": "covid-chestxray-dataset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kgomokaboya-lord/covid-chestxray-dataset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kgomokaboya-lord/covid-chestxray-dataset/issues"
+  },
+  "homepage": "https://github.com/Kgomokaboya-lord/covid-chestxray-dataset#readme",
+  "dependencies": {
+    "papaparse": "^5.3.1"
+  }
+}
